@@ -1,0 +1,12 @@
+利用vue.js和插件vue.resouce实现一个简易的购物车
+version:v1.0
+涉及到的vue知识点有：
+	生命周期mounted
+	v-if,v-on,v-for,v-bind,v-model
+	filters,computed,methods
+	this.$http.get().then
+将来的完善：
+	搭建服务器
+
+
+
